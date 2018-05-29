@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Сергей Турищев](https://up.htmlacademy.ru/javascript/14/user/246491).
-* Наставник: `Неизвестно`.
+* Наставник: [Сергей Турищев](https://up.htmlacademy.ru/javascript/14/user/246491).
 
 ---
 
