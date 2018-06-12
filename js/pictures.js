@@ -105,7 +105,7 @@ var bigPhoto = document.querySelector('.big-picture');
 
 /**
  * Функция рендерит большую фотографию
- * @param picture {*} данные одной фотографии
+ * @param {object} picture данные одной фотографии
  */
 var renderBigPhoto = function (picture) {
   bigPhoto.classList.remove('hidden');
