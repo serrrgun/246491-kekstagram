@@ -92,8 +92,6 @@ var addClickListener = function (data, photoElement) {
   });
 };
 
-
-
 bigPhotoClose.addEventListener('click', function () {
   bigPhoto.classList.add('hidden');
 });
